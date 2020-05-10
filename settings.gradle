@@ -1,0 +1,11 @@
+rootProject.name = 'hello-world'
+include 'apache-httpclient'
+include 'spring'
+include 'spring-mvc'
+include 'spring-boot'
+include 'spring-cloud'
+include 'elasticsearch'
+include 'java'
+include 'mybatis'
+include 'jsoup'
+
