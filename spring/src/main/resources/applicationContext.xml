@@ -1,0 +1,5 @@
+<beans>
+    <import resource="services.xml"/>
+    <import resource="resources/messageSource.xml"/>
+    <import resource="/resources/themeSource.xml"/>
+</beans>
